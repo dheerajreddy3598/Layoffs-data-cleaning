@@ -1,0 +1,1 @@
+This project aims to clean and analyze global layoffs data from 2020 to 2023. Using SQL for data cleaning and Python for exploratory data analysis (EDA), we provide a comprehensive understanding of the worldwide layoff trends in recent years.
